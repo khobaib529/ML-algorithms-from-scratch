@@ -1,6 +1,6 @@
-# AI Algorithms from Scratch
+# ML Algorithms from Scratch
 
-Welcome to the **AI Algorithms from Scratch** repository! This project aims to implement various artificial intelligence algorithms in C++, providing a hands-on approach to understanding AI concepts.
+Welcome to the **ML Algorithms from Scratch** repository! This project aims to implement various artificial intelligence algorithms in C++, providing a hands-on approach to understanding AI concepts.
 
 ## Introduction
 
@@ -12,6 +12,7 @@ The following algorithms are currently implemented in this repository:
 
 - **Machine Learning Algorithms**
   - Gradient Descent
+  - Decision Tree Classifier
 
 Feel free to suggest more algorithms you'd like to see implemented!
 
