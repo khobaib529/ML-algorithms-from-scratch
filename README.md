@@ -1,5 +1,7 @@
 # ML Algorithms from Scratch
 
+## just for experiment and to understand how ML algorithms work under the hood
+
 Welcome to the **ML Algorithms from Scratch** repository! This project aims to implement various artificial intelligence algorithms in C++, providing a hands-on approach to understanding AI concepts.
 
 ## Introduction
